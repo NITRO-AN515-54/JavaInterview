@@ -1,0 +1,36 @@
+Question 1)
+
+Divide candies among the children having rating as provided in inputA= [1,2,3,2,1]
+The candies distribution should follow below condition 
+(i) Children with higher rating must be getting more candies then their neighbours 
+(ii) All children must get atleast one candies
+
+###############################################################################################################################################################################
+
+Question 2) 
+
+find and print all substring of a array
+
+###############################################################################################################################################################################
+
+Question 3)
+
+word transformation 
+Consider start word as : Dog
+End word as cat 
+And words array as [dag,cag,cat]
+You have to find a solution which determines how many transformation required to convert start to end word considering the word is valid only if present in word list 
+Also can convert one character at a time
+
+###############################################################################################################################################################################
+
+Question 4)
+
+Find the index i where the sum of elements on
+the left is equal to the sum of elements on the
+right.
+Input:
+7, 3, 6, 5, 61
+
+
+###############################################################################################################################################################################
