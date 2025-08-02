@@ -1,9 +1,9 @@
-import java.util.Arrays;
-
 /* Divide candies among the children having rating as provided in inputA= [1,2,3,2,1]
    The candies distribution should follow below condition
    (i) Children with higher rating must be getting more candies then their neighbours
    (ii) All children must get atleast one candies */
+
+import java.util.Arrays;
 
 public class CandyDistribution {
     public static int[] distributeCandies(int[] ratings) {
