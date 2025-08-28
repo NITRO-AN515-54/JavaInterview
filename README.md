@@ -1,3 +1,3 @@
 # JavaInterview
 
-this repo is specifically designed to amintain questions related to DSA 
+this repo is specifically designed to maintain questions related to DSA 
