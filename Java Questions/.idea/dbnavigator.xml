@@ -42,6 +42,9 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/SQL/SwappingID.sql" connection-id="da440f4a-4a03-4861-86f4-3e2f5433dac4" session-id="MAIN" current-schema="postgres" />
+    <mapping file-url="file://$PROJECT_DIR$/src/SQL/TripsAndUsers.sql" connection-id="da440f4a-4a03-4861-86f4-3e2f5433dac4" session-id="MAIN" current-schema="dbo" />
+    <mapping file-url="file://$PROJECT_DIR$/src/SQL/SalesAnalysis.sql" connection-id="da440f4a-4a03-4861-86f4-3e2f5433dac4" session-id="MAIN" current-schema="dbo" />
+    <mapping file-url="file://$PROJECT_DIR$/src/SQL/MarketAnalysisI.sql" connection-id="da440f4a-4a03-4861-86f4-3e2f5433dac4" session-id="MAIN" current-schema="dbo" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
