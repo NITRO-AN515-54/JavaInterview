@@ -14,7 +14,7 @@ Pick ONE option
 To run in intelliJ pass this in the VM -DargProp="dog,"
  */
 
-package CoreConcept.PirateTaIk;
+package MorganStanley.multipleChoice.outputCode2;
 
 import java.util.*;
 
